@@ -1,0 +1,19 @@
+/* 🌙 Dark Mode Styling */
+body.bg-dark {
+  background-color: #121212 !important;
+}
+
+body.bg-dark .card {
+  background-color: #1e1e1e;
+  color: white;
+}
+
+body.bg-dark .btn-primary {
+  background-color: #ff9800;
+  border: none;
+}
+
+body.bg-dark .form-control {
+  background-color: #2c2c2c;
+  color: white;
+}
