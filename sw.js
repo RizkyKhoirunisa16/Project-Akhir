@@ -1,10 +1,12 @@
 const CACHE_NAME = 'resep-cache-v1';
 const FILES_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/app.js',
-  '/css/styles.css',
-  '/images/icon.jpg',
+  './',
+  './index.html',
+  './app.js',
+  './style.css',
+  './manifest.json',
+  './images/icon.jpg',
+  './images/icon-512.png',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css'
 ];
 
