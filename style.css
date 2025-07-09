@@ -1,19 +1,19 @@
 /* 🌙 Dark Mode Styling */
 body.bg-dark {
-  background-color: #121212 !important;
+  background-color: #121212 !important; /* Warna latar utama gelap untuk seluruh body */
 }
 
 body.bg-dark .card {
-  background-color: #1e1e1e;
-  color: white;
+  background-color: #1e1e1e; /* Warna latar kartu (card) di mode gelap */
+  color: white;              /* Warna teks pada card agar kontras dengan latar gelap */
 }
 
 body.bg-dark .btn-primary {
-  background-color: #ff9800;
-  border: none;
+  background-color: #ff9800; /* Ubah warna tombol utama agar terlihat kontras di mode gelap */
+  border: none;              /* Menghapus garis tepi tombol agar tampil lebih modern */
 }
 
 body.bg-dark .form-control {
-  background-color: #2c2c2c;
-  color: white;
+  background-color: #2c2c2c; /* Warna latar untuk input form agar gelap */
+  color: white;              /* Warna teks dalam input agar terbaca jelas di mode gelap */
 }
